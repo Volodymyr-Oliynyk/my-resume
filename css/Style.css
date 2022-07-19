@@ -13,7 +13,7 @@ font-family: 'Montserrat', sans-serif;
 }
 /* Main content section */
 .Main-content-section{
-    padding: 100px 90px;
+    padding: 50px;
 }
 .Main-content-title{
     font-style: normal;
@@ -44,7 +44,7 @@ margin: 0 0 40px 0;
     margin-bottom: 20px;
 }
 .about-me-discription{
-    width: 400px;
+    width: 100%;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
