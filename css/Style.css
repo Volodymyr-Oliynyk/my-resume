@@ -82,7 +82,7 @@ margin: 0 0 40px 0;
     font-weight: bold;
     font-size: 18px;
     line-height: 24px;
-    color: #f50b0b;
+    color: #FB6D3A;
 }
 
 .my-progect-text{
@@ -103,6 +103,10 @@ margin: 0 0 40px 0;
 }
 
 /* My Work Experience */
+.my-work-experience-section{
+    margin-top: 50px;
+}
+
 .my-Work-Experience-company{
     color: #FB6D3A;
 }
@@ -148,6 +152,14 @@ padding: 0 0 0 18px;
 }
 
 /* My education */
+.My-education-section{
+    margin-top: 50px;
+}
+
+.My-education-list{
+padding-left: 20px;
+}
+
 .My-education-university{
     font-style: normal;
     font-weight: bold;
@@ -204,7 +216,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 24px;
-color: #767b81;
+color: #aeb3b8;
 }
 /* Tech Skills section*/
 .Tech-Skills-list{
